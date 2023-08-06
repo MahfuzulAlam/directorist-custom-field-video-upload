@@ -1,2 +1,2 @@
-# directorist-custom-field-video-upload
-This is an extension for Directorist plugin. It helps to generate Video Upload custom field in Directorist plugin.
+# Directorist - Custom Video Upload Field
+This is an extension of the Directorist plugin. It helps to generate a Video Upload custom field in the Directorist plugin.
